@@ -1,5 +1,6 @@
 # VulnOS 2
 
+Find the box [here](http://www.vulnhub.com/entry/vulnos-2,147/)
 This is my first writeup for any box, CTF, that I've done. I'm determined not to have to consult the walkthrough, but who knows, I may still need it. 
 
 
