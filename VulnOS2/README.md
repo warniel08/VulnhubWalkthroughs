@@ -51,7 +51,7 @@ MAC Address: 08:00:27:7A:0C:8F (Oracle VirtualBox virtual NIC)
 Service Info: Host: irc.example.net; OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
-This tells me the same ports that are open but I also find out that ssh is an old version of 6.6.1p1. Ubuntu is version 2.6? Really? This box is from 2016, I guess they used an old version of Ubuntu on purpose? I'm not super sure about that, but we'll see. It's running an older version of Apache, 2.4.7. There are some potentials here. Again, not sure what I'll do about port 6667. I think I'll look at it after I've gone through my usual web side scans.
+This tells me the same ports that are open but I also find out that ssh is an old version of 6.6.1p1. Ubuntu Linux is version 2.6? Really? This box is from 2016, I guess they used an old version of Ubuntu on purpose? I'm not super sure about that, but we'll see. It's running an older version of Apache, 2.4.7. There are some potentials here. Again, not sure what I'll do about port 6667. I think I'll look at it after I've gone through my usual web side scans.
 
 I decide to use Firefox to navigate to the website at the IP address. I'm greeted with another description of the box and a link to the company website at ```/jabc```. I decide to navigate through the website to see if I can find anything interesting. I find when I view source that this site was written with Drupal 7? Never encountered that yet. I've heard of Drupal but never had to use it.
 
